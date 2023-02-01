@@ -177,14 +177,6 @@ nav button{
     
 
 }
-label::after{
-    content: '+';
-    font-size: 34px;
-    position: absolute;
-    right: 25px;
-    transition: transform 0.5s;
-    
-}
 input[type="radio"]{
     display: none;
 
